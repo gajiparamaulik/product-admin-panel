@@ -8,6 +8,6 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 npm install
 
-## Run in Development Mode
+## Run The Project
 
 npm run dev
